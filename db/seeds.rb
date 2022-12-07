@@ -135,4 +135,4 @@ multivitamin = Medication.create!(
 multivitamin.generate_intakes(
   ["Friday", "Saturday", "Sunday"],
   ["9:00am", "2:00pm", "8:00pm"]
-gi)
+)
